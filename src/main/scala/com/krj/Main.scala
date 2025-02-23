@@ -1,13 +1,15 @@
 package com.krj
 
-import com.krj.exercise_1.Exercise1
+import com.krj.exercise_1.RunClass1
+
 
 object Main {
 
   def main(args: Array[String]): Unit = {
 
-    val exercise1=new Exercise1;
-    exercise1.testFuction()
+    val runClass1=new RunClass1()
+    runClass1.testRun()
+
 
     }
 
