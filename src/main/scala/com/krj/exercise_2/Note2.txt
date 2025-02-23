@@ -1,0 +1,9 @@
+object in scala is behave like singleton class ,
+
+=>Hence it meaning is that we can use it , we have not any authority to create it or create it structure.
+
+=>Hence it does not contain any parameterised constructor.
+
+=>It has all attribute with final value which is used for internal operation or method of object.
+
+=>Only we can initialized object (means singleton object to any var or val)
